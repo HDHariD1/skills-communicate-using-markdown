@@ -1,1 +1,2 @@
-# This is a `<h1>` header, which is the largest
+# This is a picture of a Yaktocat
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
